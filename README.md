@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shree1267/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shree1267/leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
