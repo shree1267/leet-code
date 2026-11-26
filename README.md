@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shree1267/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/shree1267/leet-code/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shree1267/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/shree1267/leet-code/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
