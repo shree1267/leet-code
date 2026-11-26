@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shree1267/leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Breadth-First Search
 |  |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/shree1267/leet-code/tree/master/3360-stone-removal-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
