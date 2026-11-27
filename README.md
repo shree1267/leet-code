@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shree1267/leet-code/tree/master/0006-zigzag-conversion) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shree1267/leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Breadth-First Search
 |  |
