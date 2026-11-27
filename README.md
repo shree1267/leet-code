@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shree1267/leet-code/tree/master/0001-two-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shree1267/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shree1267/leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shree1267/leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shree1267/leet-code/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shree1267/leet-code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
